@@ -48,9 +48,5 @@ int euclid(int a, int b){
 
     return euclid(b, (a%b));
 
-    }
-
-    
-
 }
 
