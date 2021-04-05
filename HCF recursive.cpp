@@ -46,11 +46,7 @@ int euclid(int a, int b){
 
     }
 
-    
-
-    else{
-
-        euclid(b, (a%b));
+    return euclid(b, (a%b));
 
     }
 
