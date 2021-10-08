@@ -8,8 +8,10 @@ int main() {
 
     int a, b;
 
-    cout<<"Enter First Number"<<endl;
+    cout<<"HAHAHAHA Enter First Number"<<endl;
 
+    
+    
     cin>>a;
 
     
