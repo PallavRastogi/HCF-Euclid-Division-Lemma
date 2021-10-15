@@ -9,13 +9,7 @@ int main() {
     int a, b;
 
     cout<<"HAHAHAHA Enter First Number"<<endl;
-
-    
-    
     cin>>a;
-
-    
-
     cout<<"Enter Second Number"<<endl;
 
     cin>>b;
@@ -25,7 +19,6 @@ int main() {
     cout<<"The HCF of "<<a<<" and "<<b<<" is "<<euclid(a, b);
 
     return 0;
-
 }
 
 int euclid(int a, int b){
@@ -44,5 +37,7 @@ int euclid(int a, int b){
         b = k%b;
     
     }
-    return b;
+   / return b;
 }
+
+//compile to exe by "g++ <f/ilename.cpp>"
