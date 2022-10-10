@@ -6,7 +6,7 @@ int euclid (int, int);
 
 int main() {
 
-    int a, b;
+    int a, b;  
 
     cout<<"HAHAHAHA Enter First Number"<<endl;
     cin>>a;
